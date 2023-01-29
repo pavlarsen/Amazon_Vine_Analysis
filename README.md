@@ -15,17 +15,17 @@ The following table provides a summary of the main findings for the VHS Category
 
 * How many Vine reviews and non-Vine reviews were there?
 
-.
+There was a total of 49 Vine reviews for this category and 151,400 from non-Vine. We can clearly identify that this category is not currently focused on Vine reviewers and depends mostly on non-Vine ones.
 
 
 * How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 
-.
+From the 49 Vine reviewers of the category, only 9 provided 5-star reviews, whereas for non-Vine ones the total of 5-star reviews were 78,061.
 
 
 * What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
-.
+From the Vine reviews, 18% provided a 5-star review. While for non-Vine reviews the proportion was 52%.
 
 
 ---
