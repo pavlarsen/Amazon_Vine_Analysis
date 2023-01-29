@@ -8,6 +8,8 @@ The purpose of this project is to evaluate if there could be a bias on reviews f
 
 ## Results
 
+The following table provides a summary of the main findings for the VHS Category Reviews on Amazon:
+
 ![Vine Reviews](https://user-images.githubusercontent.com/113866707/215303097-ae19099c-7d7c-4cb6-9d68-59403c2e3727.png)
 
 
