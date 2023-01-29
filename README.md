@@ -1,8 +1,7 @@
 # Amazon Vine Analysis
 
-The purpose of this project is to evaluate if there could be a bias on reviews from Vine reviewers (paid) vs non Vine ones (unpaid). For this project I chose to analyze the VHS category. I conducted the analysis over total review votes above 20 (looking for significant reviews) and to avoid having division by zero errors later on. Then, in orderd to find the most helpful review votes, I conducted a second filter for only helpful votes above 50% from the total. 
-The hyphotesis we want to test is: Vine reviewers might have a tendency to provide 5 star reviews on products due to conflict of interest and thus influence on potential customers.
-On the technical side of this project, I used Spark to ETL the data on Google Colab, and process it to PgAdmin. Also implemented AWS for storage of the final database in the cloud.
+The purpose of this project is to evaluate if there could be a bias on reviews from Vine reviewers (paid) vs non-Vine ones (unpaid). For this project I chose to analyze the VHS category. I conducted the analysis over total review votes above 20 (looking for significant reviews) and to avoid having division by zero errors later. Then, in order to find the most helpful review votes, I conducted a second filter for only helpful votes above 50% from the total. The hypothesis we want to test is Vine reviewers might tend to provide 5-star reviews on products due to conflict of interest and thus influence on potential customers. On the technical side of this project, I used Spark to ETL the data on Google Colab, and process it to PgAdmin. Also implemented AWS for storage of the final database in the cloud.
+
 
 ---
 
